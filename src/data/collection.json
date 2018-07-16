@@ -1,0 +1,23 @@
+[
+    {
+        "name": "colección 1",
+        "description": "descripción 1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3x09sewjaHIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+        }
+    },
+    {
+        "name": "colección 2",
+        "description": "descripción 2",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3x09sewjaHIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+        }
+    },
+    {
+        "name": "colección 3",
+        "description": "descripción 3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3x09sewjaHIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+        }
+    }
+]
